@@ -36,7 +36,7 @@ I'm diving deep into these topics:
 ```
 MidnightLibrary/
 ├── books/
-│   └── computer-organization/
+│   └── computer-architecture-and-organization/
 ├── notes/
 └── README.md
 ```
